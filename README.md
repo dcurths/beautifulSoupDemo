@@ -1,4 +1,4 @@
 # beautifulSoupDemo
 
 * just a demo
-* small craper for bestselling o'reilly books
+* small scraper for bestselling o'reilly books
